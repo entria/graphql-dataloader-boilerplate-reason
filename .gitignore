@@ -31,3 +31,7 @@ coverage
 flow-coverage
 
 .reify-cache/
+.env*
+!.env*.example
+!.env.example
+!.env.sample
